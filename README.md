@@ -1,9 +1,9 @@
 # memnon-challenge
 Memnon Challenge
 
-The Memnon Challenge is an open design challenge exploring systems that use solar energy to generate sound and control musical performance.
+The Memnon Challenge is an open design challenge exploring systems that use solar thermal energy to generate musical sculpture and performance.
 
-The project draws inspiration from the historical Vocal Memnon, solar thermal music research, thermoacoustics, kinetic sculpture, and experimental musical instrument design.
+The project draws inspiration from the Vocal Memnon and other historical precedents, thermoacoustics, thermokinetics, orbital mechanics and moving shadows, landscape art,and experimental musical instrument design.
 
 Example videos:
 
