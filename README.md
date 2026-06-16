@@ -1,4 +1,4 @@
-# memnon-competition
+# memnon-challenge
 Memnon Challenge
 
 The Memnon Challenge is an open design challenge exploring systems that use solar energy to generate sound and control musical performance.
