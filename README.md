@@ -13,6 +13,6 @@ Example videos:
     https://www.youtube.com/watch?v=jtqR-WuZHnU
   
 Attached files are:
-1) Introductory paper with historical background, technical and conceptual basic concepts, references
-2) sound example of solar thermal music experiment
+1) Introductory paper: historical background, basic technical concepts, conceptual designs, and references.
+2) Audio example: solar thermal music experiment
    
